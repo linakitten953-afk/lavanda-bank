@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://l9137573.beget.tech/sitemap.xml
